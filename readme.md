@@ -2,7 +2,6 @@
 
 Here are the instructions to print a small (67 x 77 x 24 cm) bookshelf made out of cardboard. It is designed to use an EpilogLaser Fusion Pro with table dimensions 812 x 508 mm (like the one available at the [Quebec National Library in Montreal](https://square.banq.qc.ca/)) and 3 mm-thick corrugated cardboard. No glue required.
 
-![Cardboard bookshelf holding shoes, books and things to grab before leaving the house](Photo.jpg)
 I haven't tested how strong it is, but it is sturdy enough to hold most things you would want to put on a regular shelf. Also, the design is potentially stackable, so you could add at least two more levels on top. I have yet to test this too.
 
 ## Instructions
