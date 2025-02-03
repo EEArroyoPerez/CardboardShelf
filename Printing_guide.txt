@@ -1,0 +1,16 @@
+Shelf_A.svg = print x2 on vertical
+Shelf_Ba.svg = print x2 on vertical
+Shelf_Bb.svg = print x1 on horizontal
+Shelf_C.svg = print x2 on vertical
+Shelf_D.svg = x1 horizontal, x1 vertical
+Shelf_E.svg = x1 vertical
+
+Vertical (x8):
+|||||||||
+|||||||||
+|||||||||
+
+Horizontal (x2):
+≡≡≡≡≡≡≡≡≡
+≡≡≡≡≡≡≡≡≡
+≡≡≡≡≡≡≡≡≡

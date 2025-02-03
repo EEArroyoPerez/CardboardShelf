@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800.09998mm"
+   height="495.29999mm"
+   viewBox="0 0 800.09998 495.29999"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="Shelf_D.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.22109803"
+     inkscape:cx="1090.0143"
+     inkscape:cy="974.6808"
+     inkscape:window-width="1854"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="A-2"
+       transform="matrix(0.98518423,0,0,1.0000028,815,-1.5646263e-7)">
+      <title
+         id="title3-9">BottomBack</title>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.174611;stroke-dasharray:none"
+       d="m 190.14461,1011.0288 h -0.0573 v -9.9259 h 90.0005 v 9.9775"
+       id="path2-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.174611;stroke-dasharray:none"
+       d="m 460.14461,1009.9704 h -0.0573 v -9.9259 h 90.0005 v 9.9775"
+       id="path2-3" />
+    <g
+       id="B-7"
+       transform="matrix(0.91,0,0,-0.91,93.362309,743.78748)">
+      <title
+         id="title2-1">BottomShelf</title>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.182585;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-5-9-1"
+         width="4.2130194"
+         height="134.81741"
+         x="95.99205"
+         y="550.09131"
+         rx="8.6618367e-18" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.15762;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-5-9-5-59"
+         width="3.1390836"
+         height="134.84239"
+         x="363.48541"
+         y="550.07886"
+         rx="6.4538579e-18" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.15762;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-5-9-5-5-7"
+         width="3.1390836"
+         height="134.84239"
+         x="373.37552"
+         y="550.0788"
+         rx="6.4538579e-18" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.182585;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-5-9-5-0-7"
+         width="4.2130194"
+         height="134.81741"
+         x="640.28345"
+         y="550.09131"
+         rx="8.6618367e-18" />
+      <path
+         id="rect1-8-6"
+         style="fill:none;stroke:#000000;stroke-width:0.138809"
+         d="M 275.99923,550.06938 H 370 460.00014 m 92.45482,0 h 94.99298 92.48265 v 0 265.46558 0 H 0.06940465 v 0 -265.46558 H 92.552053 l 94.916957,0.0204"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.17152;stroke-dasharray:none"
+         d="m 187.46344,550.01269 0.0303,-9.86349 88.47504,-0.0634 0.0415,9.83627"
+         id="path2-73"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.174446;stroke-dasharray:none"
+         d="m 459.75731,550.01268 h 4.44177 l -0.0719,-9.90614 88.3571,-0.0194 0.007,9.97709"
+         id="path2-7-6"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="B-7-5"
+       transform="matrix(0.91,0,0,0.91,12.964586,-247.98332)">
+      <title
+         id="title2-1-3">BottomShelf</title>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.182585;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-5-9-1-5"
+         width="4.2130194"
+         height="134.81741"
+         x="95.99205"
+         y="550.09131"
+         rx="8.6618367e-18" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.15762;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-5-9-5-59-6"
+         width="3.1390836"
+         height="134.84239"
+         x="363.48541"
+         y="550.07886"
+         rx="6.4538579e-18" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.15762;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-5-9-5-5-7-2"
+         width="3.1390836"
+         height="134.84239"
+         x="373.37552"
+         y="550.0788"
+         rx="6.4538579e-18" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.182585;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-5-9-5-0-7-9"
+         width="4.2130194"
+         height="134.81741"
+         x="640.28345"
+         y="550.09131"
+         rx="8.6618367e-18" />
+      <path
+         id="rect1-8-6-1"
+         style="fill:none;stroke:#000000;stroke-width:0.138809"
+         d="M 275.99923,550.06938 H 370 460.00014 m 92.45482,0 h 94.99298 92.48265 v 0 265.46558 0 H 0.06940465 v 0 -265.46558 H 92.552053 l 94.916957,0.0204"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.17152;stroke-dasharray:none"
+         d="m 187.46344,550.01269 0.0303,-9.86349 88.47504,-0.0634 0.0415,9.83627"
+         id="path2-73-2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.174446;stroke-dasharray:none"
+         d="m 459.75731,550.01268 h 4.44177 l -0.0719,-9.90614 88.3571,-0.0194 0.007,9.97709"
+         id="path2-7-6-7"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>
